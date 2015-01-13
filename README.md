@@ -1,2 +1,2 @@
 # learn_insight-notes
-Notes for talks and meetings at Insight Data Science
+Notes for talks and meetings as data engineering fellow at Insight Data Science
