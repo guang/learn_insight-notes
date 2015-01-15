@@ -10,3 +10,15 @@ iffy how this works, should probably follow up.
 Actually so other nested type formats are also bad (ie jason) since they are not line
 by line - instead a better way would be to first convert them into a nicer structure
 (thats all on one line, even something like csv is fine) via something like Apache Thrift.
+
+## Transforming not-hadoop-friendly data
+There are services that do this
+- Thrift
+- Protobuf (Protocol Buffers)
+- Avro
+
+## Scheduling timed scripts
+cron scheduler in unix
+
+## Kafka
+Kafka is pretty awesome and lets you choose block size to be pushed onto HDFS
