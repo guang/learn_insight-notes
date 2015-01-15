@@ -15,5 +15,6 @@ If you have any ideas please send me a note at gy8 [AT] berkeley [DOT] edu
   - Chat with Arthur (Airbnb) and Jean-Marc (relateIQ)
 - Wednesday, 1/14/2015
   - Skype with Nathan Marz
+  - Chat with Jeff Magnusson (Stitchfix)
   - Whiteboard chat with Andrew about hadoop
   - Chat with DJ Patil (relateIQ)
