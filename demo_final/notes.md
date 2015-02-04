@@ -5,22 +5,21 @@ Guang Yang
 
 ## Motivation (1:05)
 
-Starcraft II is a real-time strategy game - so basically you build bases, get resources, make
-units and then try to kill your enemy. There are two variations that keeps the game
-interesting as they evolve - which race you play and what map you play it on.
+Starcraft II is a real-time strategy game - so basically you start with a base and you make
+stuff and try to kill your enemy. There are a few factors that keep the game interesting
+as it evolves, the one that I wanna look at is maps
 
-For both developers and players, game balance is super important - and in terms of maps, this
-is really tricky because on one hand you want to encourage players to come up with new
-tactics based around new maps, but at the same time you dont want any particular playstyle
-to be overpowered.
-
-Let me show you what I mean. Here is a regular map, [PAUSE] here are
+Let me show you why maps change how you play the game. Here is a regular map, [PAUSE] here are
 the two bases [PAUSE], most units are ground units so to get to your enemys
 base you need to travel a long distance.
 
 Here is a more interesting map. [PAUSE] Two bases [PAUSE] still long way to go by foot
 [PAUSE] but now the proximity allows for more potent air harassment and early rushes
 
+For both developers and players, game balance is super important - and in terms of maps, this
+is really tricky because on one hand you want to encourage players to come up with new
+tactics based around new maps, but at the same time you dont want any particular playstyle
+to be overpowered.
 
 I thought it would be cool to use data to track how each map is doing - whether they are
 unbalanced towards a certain playstyle. By looking through vast amount of replays
